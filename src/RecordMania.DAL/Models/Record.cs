@@ -9,13 +9,12 @@ public class Record
     public double ExecutionTime { get; set; }
     public DateTime Created { get; set; }
 
-
     public int StudentId { get; set; }
     public Student Student { get; set; } = null!;
-    
+
     public int ProgrammingLanguageId { get; set; }
     public ProgrammingLanguage ProgrammingLanguage { get; set; } = null!;
-    
-    public int TaskId { get; set; }
+
+    public int TaskId { get; set; } // Foreign key to CodeTask
     public CodeTask CodeTask { get; set; } = null!;
 }
