@@ -9,15 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bea0b40e-a43c-4c11-b941-1774b32dac4f" name="Changes" comment="gitignore">
-      <change afterPath="$PROJECT_DIR$/src/RecordMania.DAL/Migrations/20240613000000_InitialCreate.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecordMania.DAL/Migrations/RecordManiaContextModelSnapshot.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.apbd_test2_sample1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.apbd_test2_sample1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecordMania.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/RecordMania.sln.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecordMania.Api/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecordMania.Api/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecordMania.DAL/Models/CodeTask.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecordMania.DAL/Models/CodeTask.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecordMania.DAL/Models/Record.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecordMania.DAL/Models/Record.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecordMania.DAL/RecordManiaContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecordMania.DAL/RecordManiaContext.cs" afterDir="false" />
+    <list default="true" id="bea0b40e-a43c-4c11-b941-1774b32dac4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;s30062&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "s30062"
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/s30062/RecordMania.git&quot;,
@@ -43,13 +36,12 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9e6ecf3790a24c43487ae724bf9ea8185bdedaf6c28da376d6ea862e66453/WebApplicationBuilder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/4b21fc3f8a3abb5d25f06c622276fbec0fd3932f169cc6af520bf5abc6a46b4/DbSet.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
-  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -135,53 +127,15 @@
       <workItem from="1749672477993" duration="27486000" />
       <workItem from="1749771818115" duration="600000" />
       <workItem from="1749772674971" duration="4869000" />
-      <workItem from="1749802636008" duration="5157000" />
+      <workItem from="1749802636008" duration="3625000" />
     </task>
-    <task id="LOCAL-00001" summary="Test2">
-      <option name="closed" value="true" />
-      <created>1749806282662</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1749806282662</updated>
-    </task>
-    <task id="LOCAL-00002" summary="123">
-      <option name="closed" value="true" />
-      <created>1749806310821</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1749806310821</updated>
-    </task>
-    <task id="LOCAL-00003" summary="123">
-      <option name="closed" value="true" />
-      <created>1749806320632</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1749806320632</updated>
-    </task>
-    <task id="LOCAL-00004" summary="gitignore">
-      <option name="closed" value="true" />
-      <created>1749806488182</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1749806488182</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Test2" />
-    <MESSAGE value="123" />
-    <MESSAGE value="gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
 </project>
